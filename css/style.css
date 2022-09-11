@@ -1,8 +1,4 @@
-@import url(./btns/btn-1.css);
-@import url(./btns/btn-2.css);
-@import url(./btns/btn-3.css);
-@import url(./btns/btn-4.css);
-@import url(./btns/btn-5.css);
+@import url(./btns/index.css);
 
 body {
   height: 100vh;
